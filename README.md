@@ -1,8 +1,39 @@
-# React + Vite
+# React Router Webiste
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to React Router Webiste. This is a React project that demonstrated the react router dom.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before you begin, ensure you have met the following requirements:
+
+- Node.js: [Download and install Node.js](https://nodejs.org/)
+
+## Getting Started
+
+To get this project up and running on your local machine, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Abhijitkr/React-router-website.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd React-router-website
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+   The development server will start, and you can view your app at `http://localhost:5173/` in your browser.
